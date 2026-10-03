@@ -1,0 +1,5 @@
+# keep Wi-Fi / broker credentials out of GitHub
+firmware/esp32_env_monitor/secrets.h
+.vscode/
+.pio/
+*.bak
